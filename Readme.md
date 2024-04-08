@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **MERN/MEAN Stack, DSA**
 
-- 👨‍💻 All of my projects are available at - [https://prabalgupta2411.netlify.app/](https://prabalgupta2411-myportfolio.vercel.app/) 
+- 👨‍💻 All of my projects are available at - [https://prabalgupta2411-myportfolio.vercel.app/](https://prabalgupta2411-myportfolio.vercel.app/)
 
 - 💬 Ask me about **WebDev, DSA**
 
